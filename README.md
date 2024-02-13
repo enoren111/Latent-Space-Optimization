@@ -10,3 +10,6 @@ Our research demonstrates significant advancements in model accuracy and perform
 * Warm-Up Training: Dynamically adjusts learning rates to improve model convergence and generalisation.
 * Stride Modification: Enhances the granularity of feature maps, enabling the model to capture more detailed features.
 * SE Attention Mechanisms: Boosts model expressiveness by adaptively re-weighting feature channels, focusing on the most relevant details for retrieval tasks.
+
+## Model Chart:  
+![FG-SBIR Chart](FG-SBIR_model.jpg)
